@@ -1099,10 +1099,10 @@
           "title_ja": "クワイエットワールド",
           "title_en": "Quiet World",
           "lyric_id": 1,
-          "audio_embed": "https://www.youtube.com/embed/k3BW2gk8aOw",
+          "audio_embed": "https://www.youtube.com/embed/7IoFwHzDDyo",
           "analysis": "乾いた街の片隅にひっそり咲く、小さな花を見つめるところから始まる歌。何も語らない花のいのちの光が、言葉よりも深く「生きていていい」と伝えてくれる。優しい風や水が涙を包み、頬をなで、やがて広い海へと溶かしていく。静かな世界＝諦めではなく、喧騒の外側でようやく聴こえてくる声を描いた、穏やかながら力強い生命讃歌。",
           "links": {
-            "youtube": "https://youtu.be/k3BW2gk8aOw",
+            "youtube": "https://youtu.be/7IoFwHzDDyo?si=z5tH3DVbLi9j-sjh",
             "spotify": "https://open.spotify.com/intl-ja/track/6p1ZEtk3sxvrvDlVnwr6zW?si=1bc46911bf534b4f"
           }
         },
@@ -1164,6 +1164,149 @@
           "links": {
             "youtube": "https://youtu.be/bqtFw0EOQ5Y",
             "spotify": "https://open.spotify.com/intl-ja/track/4MC4KwmuKzZI1BTfeOer7V?si=06a1bd50623f4e7a"
+          }
+        }
+      ]
+    },
+    {
+      "key": "utanohoshi_the_1st",
+      "title_ja": "うたのほし The 1st",
+      "title_en": "UTANOHOSHI The 1st",
+      "year": "2022",
+      "type": "Album",
+      "album_jacket": "images/the1st_jacket.jpg",
+      "description": "祈りと絆が星座を結ぶ、うたのほし誕生記",
+      "tracks": [
+        {
+          "track_no": 1,
+          "title_ja": "巡りの星",
+          "title_en": "Orbiting Star",
+          "lyric_id": 6,
+          "audio_embed": "https://www.youtube.com/embed/X1miTfJ4z6o",
+          "analysis": "目覚めた朝の始まりに、もう触れられないぬくもりを思い出すところから始まる歌。雨や風となってそばにいる、と語りかける“あなた”と、今を生きる“わたし”の約束が、涙を集めて青い海と星をつくっていく。別れは断絶ではなく、命がかたちを変えて巡り続ける旅路の一場面にすぎないことが歌われる。大切な人を見送ったあとも、この星で生き続けることをそっと支えてくれるレクイエムであり、出発の歌。",
+          "links": {
+            "youtube": "https://youtu.be/X1miTfJ4z6o",
+            "spotify": "https://open.spotify.com/intl-ja/track/7eEZImHMmKTgxzHauBhJ4j?si=1a6ea41f56694682"
+          }
+        },
+        {
+          "track_no": 2,
+          "title_ja": "桜散る前に",
+          "title_en": "Before the Sakura Fall",
+          "lyric_id": 5,
+          "audio_embed": "https://www.youtube.com/embed/J4B3kV-7Mjg",
+          "analysis": "桜が散ってしまう前にどうしても伝えたかった「ごめんね」と「ありがとう」。言えないまま時間だけが過ぎていくもどかしさと、トンネルの出口へ競争した記憶が、春の光とともに何度も胸に戻ってくる。別れの予感に怯えながらも、もう一度あの場所へ自転車で走っていき、正面から気持ちを伝えようとする決意が描かれる。後悔を抱いたままではなく、言葉にすることで関係を未来へつなぎ直していく、切なくも前向きな春の歌。",
+          "links": {
+            "youtube": "https://youtu.be/J4B3kV-7Mjg",
+            "spotify": "https://open.spotify.com/intl-ja/track/0UDKHyFha6sSYBgAS9zAQd?si=38548df661094413"
+          }
+        },
+        {
+          "track_no": 3,
+          "title_ja": "遙かなるエトワール",
+          "title_en": "Faraway Etoile.",
+          "lyric_id": 12,
+          "audio_embed": "https://www.youtube.com/embed/bH6z7eRiD4Q",
+          "analysis": "夜空に浮かぶ遠い星を見つめながら、私たちはそれぞれの思いを投げかける。届くはずのない距離に向けて放った願いが、静かに光へ溶けていく。けれど本当は、星もまたこちらを見守り、揺れる心のひとつひとつを受け止めてくれている。遠く離れていても“互いに見つめ合っている”という確かな感覚──そのぬくもりをそっと灯す、祈りと呼応の歌。",
+          "links": {
+            "youtube": "https://youtu.be/bH6z7eRiD4Q",
+            "spotify": "https://open.spotify.com/intl-ja/track/4KwVRvM9ii09PiOidGvyon?si=933c3cca2e374f2b"
+          }
+        },
+        {
+          "track_no": 4,
+          "title_ja": "愛さずに",
+          "title_en": "AISAZUNI",
+          "lyric_id": 30,
+          "audio_embed": "https://www.youtube.com/embed/3o91-djgiUE",
+          "analysis": "愛さずにいられないほど、この世界は美しい。その事実をまっすぐに抱きしめる歌。痛みも、憧れも、すれ違いも、胸に刻まれるすべての瞬間が“生きている証”として輝きなおしていく。愛は重荷ではなく、世界とつながるための温かな入口であり、心が震えるたびに景色は新しい色を帯びていく。ただその美しさに動かされてしまう──そんな人のいのちの正直さを讃える賛歌。",
+          "links": {
+            "youtube": "https://youtu.be/3o91-djgiUE",
+            "spotify": "https://open.spotify.com/intl-ja/track/39qQAjFQFAfkHWuzNX0jlo?si=e7931549e80746f4"
+          }
+        },
+        {
+          "track_no": 5,
+          "title_ja": "ドライビングスターズ",
+          "title_en": "DRIVING STARS",
+          "lyric_id": 20,
+          "audio_embed": "https://www.youtube.com/embed/Xe2XARf4I2s",
+          "analysis": "カバンに詰め込んだ宝物と一緒に、光の機関車へ飛び乗るイメージで始まる旅の歌。窓の外を流れていく流星たちは、自分自身や仲間たちの姿でもあり、心に灯した小さな明かりで見えない未来を照らしていく。嬉しさのかけらを集めて自分だけの地図にし、好きな自分のまま話す言葉が魔法になると教えてくれる。許しと勇気を胸に、夢の向こうへ走り続ける子どもたちのアンセム。",
+          "links": {
+            "youtube": "https://youtu.be/Xe2XARf4I2s",
+            "spotify": "https://open.spotify.com/intl-ja/track/21lAyj8USbFuasPq6F3S00?si=578a877427684b22"
+          }
+        },
+        {
+          "track_no": 6,
+          "title_ja": "こだま",
+          "title_en": "KODAMA",
+          "lyric_id": 4,
+          "audio_embed": "https://www.youtube.com/embed/t8UAwkG0u4A",
+          "analysis": "子どもの頃のあなたの声を、あの丘の上で聞き直したいという願いから始まる歌。隠してきた悲しみを並べて一緒に眺めると、優しい風が明日を運んでくる。瞳の奥に揺れる“あなただけの星”から流れてくる歌は、他の誰でもない自分自身を信じるためのこだまのようなもの。古い傷や失敗ごと抱きしめて、そこから大切な人の笑顔があふれてくるプロセスを丁寧に描いている。",
+          "links": {
+            "youtube": "https://youtu.be/t8UAwkG0u4A",
+            "spotify": "https://open.spotify.com/intl-ja/track/5kjI00DfaM1Wb8hndSJx5N?si=a5d8ea5789a84a58"
+          }
+        },
+        {
+          "track_no": 7,
+          "title_ja": "残存",
+          "title_en": "Remnant",
+          "lyric_id": 7,
+          "audio_embed": "https://www.youtube.com/embed/qENYElDMKkU",
+          "analysis": "見ないふりをしてきた記憶や痛みが、乾いた土を踏む足元からじわじわとよみがえってくる歌。厳しさに削られて、自分の影を薄めてしまった心が、花たちの声に導かれながら失われた笑顔や絆を探し出していく。忘れたい過去のかけら＝“残存”を、呪いではなく救いの鍵としてもう一度抱きしめ直すことで、明日の自分に「大丈夫」と言える強さが生まれる。痛みを否定せず、そこから立ち上がるレジリエンスを描いた一曲。",
+          "links": {
+            "youtube": "https://youtu.be/qENYElDMKkU",
+            "spotify": "https://open.spotify.com/intl-ja/track/3NYkh5RP3PdhG7qvCMWvE5?si=81bd2f53d3cd4b6b"
+          }
+        },
+        {
+          "track_no": 8,
+          "title_ja": "TOMO",
+          "title_en": "TOMO",
+          "lyric_id": 2,
+          "audio_embed": "https://www.youtube.com/embed/3j7jUfqISSw",
+          "analysis": "壊れた時計の針や、ふざけ合った笑い声を手がかりに、もう会えない友の面影をたどる歌。空の上へ旅立ってしまった“君”が、雲や風や歌声になって今もそばにいてくれる感覚が、季節の風景と共に描かれる。「ありがとう」を何度も繰り返すフレーズには、別れの悲しみだけでなく、この世界そのものへの感謝が重ねられている。旅立った友と残された自分が、記憶と歌を通してこれからも一緒に生きていくことを誓うレクイエム。",
+          "links": {
+            "youtube": "https://youtu.be/3j7jUfqISSw",
+            "spotify": "https://open.spotify.com/intl-ja/track/3oO999mMags7jrlosBPt89?si=caad8d235c7740b0"
+          }
+        },
+        {
+          "track_no": 9,
+          "title_ja": "ファントムシティ",
+          "title_en": "The Phantom City",
+          "lyric_id": 3,
+          "audio_embed": "https://www.youtube.com/embed/SM47X2hefA4",
+          "analysis": "見えない明日に手を伸ばしても、届かないものばかりがある「幻の街」。宛先のない手紙、壊れたラジオの向こうの嘘、誰もが自分の正義で鐘を鳴らす光景が描かれる。その中で、紫陽花の雫や青空の白い雲といった具体的な記憶だけが、確かな手がかりとして残る。揺れる命の灯を互いにつなぎ、幻を笑い飛ばしていくことで、偽物だらけの世界から本当の明日を取り戻そうとする歌。",
+          "links": {
+            "youtube": "https://youtu.be/SM47X2hefA4",
+            "spotify": "https://open.spotify.com/intl-ja/track/3FPlCELEy57TMzc1BjrZmJ?si=7cedb9f4c86a40a0"
+          }
+        },
+        {
+          "track_no": 10,
+          "title_ja": "Quiet World",
+          "title_en": "Quiet World",
+          "lyric_id": 1,
+          "audio_embed": "https://www.youtube.com/embed/k3BW2gk8aOw",
+          "analysis": "乾いた街の片隅にひっそり咲く、小さな花を見つめるところから始まる歌。何も語らない花のいのちの光が、言葉よりも深く「生きていていい」と伝えてくれる。優しい風や水が涙を包み、頬をなで、やがて広い海へと溶かしていく。静かな世界＝諦めではなく、喧騒の外側でようやく聴こえてくる声を描いた、穏やかながら力強い生命讃歌。",
+          "links": {
+            "youtube": "https://youtu.be/k3BW2gk8aOw",
+            "spotify": "https://open.spotify.com/intl-ja/track/5bwvlSZWjDW1nZhgIHaFwM?si=d5998839e28d48b7"
+          }
+        },
+        {
+          "track_no": 11,
+          "title_ja": "月の夢",
+          "title_en": "Dream of the Moon",
+          "lyric_id": 15,
+          "audio_embed": "https://www.youtube.com/embed/aUEiAHGDYZU",
+          "analysis": "この歌は、静かな夜に見上げる月を、叶わなかった想いや遠い憧れの象徴として描いています。届かないと知りながらも、心のどこかでずっと見つめ続けてきた願いは、夢の中でだけそっと形を持つ。月の光に照らされるとき、人は自分の孤独とやさしく向き合い、まだ終わっていない物語の存在に気づく。醒めることのない“月の夢”として、心に残り続ける感情をすくい上げた一曲です。",
+          "links": {
+            "youtube": "https://youtu.be/aUEiAHGDYZU",
+            "spotify": "https://open.spotify.com/intl-ja/track/4C4RZjKElOn2hAKjm2akPy?si=e1aacefe1b234b12"
           }
         }
       ]
